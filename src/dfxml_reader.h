@@ -33,7 +33,7 @@
 #error dfxml_reader.h requires expat.h
 #endif
 
-#include "hash_t.h"
+#include <dfxml_hash_t.h>
 
 namespace dfxml {
 
